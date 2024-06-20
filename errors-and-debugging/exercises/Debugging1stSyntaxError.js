@@ -1,4 +1,5 @@
 //Run this code first and examine the error message.
+if (fuelLevel >= 20000)
 //Fix the syntax error then run the code again to check your work.
 
 let launchReady = false;
